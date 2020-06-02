@@ -1,2 +1,3 @@
 # java-for-android
-final project/ mini project
+final project- Calculator Assignment
+rest are all the other assignments
